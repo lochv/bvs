@@ -1,28 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <strings.h>
+#include "utils/utils.h"
 
 int get_ver(char *ver)
 {
-	FILE *fp;
-	char tmp[256];
-	int i;
-	fp = popen("cmd.exe /c ver", "r");
+	char *tmp;
+	tmp = utils_syscall("cmd.exe /c ver");
+	memcpy(ver, tmp, utils_strlen(tmp));
 
-	if (fp == NULL) {
+	printf("%s\n",ver);
+	if (ver == NULL)
 		return 1;
-	}
-
-	while (fgets(tmp, 1023, fp) != NULL);
-
-	for (i = 18; i < sizeof(tmp); i++)
-	{
-		if (tmp[i] == ' ')
-			break;
-		ver[i - 18] = tmp[i];
-	}
-
-	pclose(fp);
-
 	return 0;
 }
