@@ -28,8 +28,13 @@ int utils_create_report()
 	f = fopen("report.data", "w");
 	if (f == NULL)
 		return 1;
-	fprintf(f, utils_xor_str("BVS REPORT\n"));
-	fprintf(f, utils_xor_str("===============================================================\n"));
+	#ifdef DEBUG
+		fprintf(f, "BVS REPORT\n");
+		fprintf(f, "===============================================================\n");
+	#else
+		fprintf(f, utils_xor_str("BVS REPORT\n"));
+		fprintf(f, utils_xor_str("===============================================================\n"));
+	#endif
 	fclose(f);
 	return 0;
 }
