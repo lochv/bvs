@@ -68,7 +68,7 @@ char *utils_syscall(char *cmd)
 
 	while (fgets(tmp, 128, fp) != NULL)
 	{
-		tmp_ptr = realloc(output, (strlen(output) + utils_strlen(tmp)) * sizeof( char *));
+		tmp_ptr = realloc(output, (utils_strlen(output) + utils_strlen(tmp)) * sizeof( char *));
 		output = tmp_ptr;
 		strcat(output, tmp);
 	}
@@ -81,7 +81,7 @@ char *utils_strcat(char *s1, char *s2)
 {
 	int i;
 
-	char *output = (char *) malloc((strlen(s1) + utils_strlen(s2) + 1) * sizeof(char));
+	char *output = (char *) malloc((utils_strlen(s1) + utils_strlen(s2) + 1) * sizeof(char));
 	memset(output, '\0', (utils_strlen(s1) + utils_strlen(s2) + 1) * sizeof(char));
 	memcpy(output, s1, utils_strlen(s1) + 1);
 
