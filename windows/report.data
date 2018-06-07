@@ -1,1 +1,46 @@
-CWR!SDQNSU<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<IJDX^MNB@M^L@BIHOD]Rnguv`sd]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mmIJDX^MNB@M^L@BIHOD]Rnguv`sd]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mm]DLT9197!@RRDLCMDS!@OE!DLTM@UNS^hr0IJDX^MNB@M^L@BIHOD]Rnguv`sd]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mm]DLT9197!@RRDLCMDS!@OE!DLTM@UNS^hr0!!!!Ehrqm`xO`ld!!!!SDF^R[!!!!DLT9197!@RRDLCMDS!@OE!DLTM@UNS!!!!Druhl`udeRh{d!!!!SDF^EVNSE!!!!1yc71!!!!Hoon!Rdutq;!@qq!Q`ui!!!!SDF^R[!!!!B;]DLT9197!!!!Hoon!Rdutq;!Hbno!Fsntq!!!!SDF^R[!!!!DLT9197!!!!Hoon!Rdutq;!Rdutq!Wdsrhno!!!!SDF^R[!!!!4/2/6!)`(!!!!Hoon!Rdutq;!Trds!!!!SDF^R[!!!!op!!!!Horu`mmE`ud!!!!SDF^R[!!!!31091430!!!!Horu`mmMnb`uhno!!!!SDF^R[!!!!B;]DLT9197]!!!!OnLnehgx!!!!SDF^EVNSE!!!!1y0!!!!OnSdq`hs!!!!SDF^EVNSE!!!!1y0!!!!Qtcmhrids!!!!SDF^R[!!!!DLT9197!!!!PthduTohoru`mmRushof!!!!SDF^R[!!!!#B;]DLT9197]tohor111/dyd#!.RHMDOU!!!!Tohoru`mmRushof!!!!SDF^R[!!!!#B;]DLT9197]tohor111/dyd#!!!!TSMHogn@cntu!!!!SDF^R[!!!!iuuq;..vvv/dlt9197/bnl!!!!TSMTqe`udHogn!!!!SDF^R[!!!!iuuq;..vvv/dlt9197/bnlIJDX^MNB@M^L@BIHOD]Rnguv`sd]Vnv7523Oned]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mmIJDX^MNB@M^L@BIHOD]Rnguv`sd]Vnv7523Oned]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mm]DLT9197!@RRDLCMDS!@OE!DLTM@UNS^hr0IJDX^MNB@M^L@BIHOD]Rnguv`sd]Vnv7523Oned]Lhbsnrngu]Vhoenvr]BtssdouWdsrhno]Tohoru`mm]DLT9197!@RRDLCMDS!@OE!DLTM@UNS^hr0!!!!Ehrqm`xO`ld!!!!SDF^R[!!!!DLT9197!@RRDLCMDS!@OE!DLTM@UNS!!!!Druhl`udeRh{d!!!!SDF^EVNSE!!!!1yc71!!!!Hoon!Rdutq;!@qq!Q`ui!!!!SDF^R[!!!!B;]DLT9197!!!!Hoon!Rdutq;!Hbno!Fsntq!!!!SDF^R[!!!!DLT9197!!!!Hoon!Rdutq;!Rdutq!Wdsrhno!!!!SDF^R[!!!!4/2/6!)`(!!!!Hoon!Rdutq;!Trds!!!!SDF^R[!!!!op!!!!Horu`mmE`ud!!!!SDF^R[!!!!31091430!!!!Horu`mmMnb`uhno!!!!SDF^R[!!!!B;]DLT9197]!!!!OnLnehgx!!!!SDF^EVNSE!!!!1y0!!!!OnSdq`hs!!!!SDF^EVNSE!!!!1y0!!!!Qtcmhrids!!!!SDF^R[!!!!DLT9197!!!!PthduTohoru`mmRushof!!!!SDF^R[!!!!#B;]DLT9197]tohor111/dyd#!.RHMDOU!!!!Tohoru`mmRushof!!!!SDF^R[!!!!#B;]DLT9197]tohor111/dyd#!!!!TSMHogn@cntu!!!!SDF^R[!!!!iuuq;..vvv/dlt9197/bnl!!!!TSMTqe`udHogn!!!!SDF^R[!!!!iuuq;..vvv/dlt9197/bnlsdf;!How`mhe!rxrudl!jdx!Zsdf;!Uid!rxrudl!v`r!to`cmd!un!ghoe!uid!rqdbhghde!sdfhrusx!jdx!ns!w`mtd\sdf;!How`mhe!rxrudl!jdx!Zsdf;!Uid!rxrudl!v`r!to`cmd!un!ghoe!uid!rqdbhghde!sdfhrusx!jdx!ns!w`mtd\
+CWR!SDQNSU<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\EMU8086 ASSEMBLER AND EMULATOR_is1
+
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\EMU8086 ASSEMBLER AND EMULATOR_is1
+    DisplayName    REG_SZ    EMU8086 ASSEMBLER AND EMULATOR
+    EstimatedSize    REG_DWORD    0xb60
+    Inno Setup: App Path    REG_SZ    C:\EMU8086
+    Inno Setup: Icon Group    REG_SZ    EMU8086
+    Inno Setup: Setup Version    REG_SZ    5.3.7 (a)
+    Inno Setup: User    REG_SZ    nq
+    InstallDate    REG_SZ    20180521
+    InstallLocation    REG_SZ    C:\EMU8086\
+    NoModify    REG_DWORD    0x1
+    NoRepair    REG_DWORD    0x1
+    Publisher    REG_SZ    EMU8086
+    QuietUninstallString    REG_SZ    "C:\EMU8086\unins000.exe" /SILENT
+    UninstallString    REG_SZ    "C:\EMU8086\unins000.exe"
+    URLInfoAbout    REG_SZ    http://www.emu8086.com
+    URLUpdateInfo    REG_SZ    http://www.emu8086.com
+
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\EMU8086 ASSEMBLER AND EMULATOR_is1
+
+
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\EMU8086 ASSEMBLER AND EMULATOR_is1
+    DisplayName    REG_SZ    EMU8086 ASSEMBLER AND EMULATOR
+    EstimatedSize    REG_DWORD    0xb60
+    Inno Setup: App Path    REG_SZ    C:\EMU8086
+    Inno Setup: Icon Group    REG_SZ    EMU8086
+    Inno Setup: Setup Version    REG_SZ    5.3.7 (a)
+    Inno Setup: User    REG_SZ    nq
+    InstallDate    REG_SZ    20180521
+    InstallLocation    REG_SZ    C:\EMU8086\
+    NoModify    REG_DWORD    0x1
+    NoRepair    REG_DWORD    0x1
+    Publisher    REG_SZ    EMU8086
+    QuietUninstallString    REG_SZ    "C:\EMU8086\unins000.exe" /SILENT
+    UninstallString    REG_SZ    "C:\EMU8086\unins000.exe"
+    URLInfoAbout    REG_SZ    http://www.emu8086.com
+    URLUpdateInfo    REG_SZ    http://www.emu8086.com
+
+reg: Invalid system key [reg: The system was unable to find the specified registry key or value]
+reg: Invalid system key [reg: The system was unable to find the specified registry key or value]

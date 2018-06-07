@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include "utils/utils.h"
 #include <stdlib.h>
 #include <string.h>
+#include "utils/utils.h"
+#include "get_installed_app.h"
 
 #define REG_PATH_HKLM32 "HKEY_LOCAL_MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
 #define REG_PATH_HKLM "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall"
