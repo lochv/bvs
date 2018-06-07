@@ -1,4 +1,3 @@
-#include "get_version.h"
 #include <stdio.h>
 #include <malloc.h>
 #include "utils/utils.h"
