@@ -1,6 +1,6 @@
 # bvs
 B Vulnerabilities Seeker
 
-Run agent -> Report file (version of apps installed,vulns of OS,....) -> Server (DB of CVE) -> Final report.
+![alt text](https://raw.githubusercontent.com/lochv/bvs/master/Screenshot%20from%202018-06-08%2014-06-55.png)
 
 *From Bá Team With Love <3*
