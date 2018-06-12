@@ -1,0 +1,228 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 119732  4620 ?        Ss   13:31   0:07 /lib/systemd/systemd --system --deserialize 21
+root         2  0.0  0.0      0     0 ?        S    13:31   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    13:31   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   13:31   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    13:31   0:07 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    13:31   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    13:31   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    13:31   0:00 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    13:31   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    13:31   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    13:31   0:00 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   13:31   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    13:31   0:00 [kdevtmpfs]
+root        17  0.0  0.0      0     0 ?        S<   13:31   0:00 [netns]
+root        18  0.0  0.0      0     0 ?        S<   13:31   0:00 [perf]
+root        19  0.0  0.0      0     0 ?        S    13:31   0:00 [khungtaskd]
+root        20  0.0  0.0      0     0 ?        S<   13:31   0:00 [writeback]
+root        21  0.0  0.0      0     0 ?        SN   13:31   0:00 [ksmd]
+root        22  0.0  0.0      0     0 ?        SN   13:31   0:00 [khugepaged]
+root        23  0.0  0.0      0     0 ?        S<   13:31   0:00 [crypto]
+root        24  0.0  0.0      0     0 ?        S<   13:31   0:00 [kintegrityd]
+root        25  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        26  0.0  0.0      0     0 ?        S<   13:31   0:00 [kblockd]
+root        27  0.0  0.0      0     0 ?        S<   13:31   0:00 [ata_sff]
+root        28  0.0  0.0      0     0 ?        S<   13:31   0:00 [md]
+root        29  0.0  0.0      0     0 ?        S<   13:31   0:00 [devfreq_wq]
+root        34  0.0  0.0      0     0 ?        S    13:31   0:04 [kswapd0]
+root        35  0.0  0.0      0     0 ?        S<   13:31   0:00 [vmstat]
+root        36  0.0  0.0      0     0 ?        S    13:31   0:00 [fsnotify_mark]
+root        37  0.0  0.0      0     0 ?        S    13:31   0:00 [ecryptfs-kthrea]
+root        53  0.0  0.0      0     0 ?        S<   13:31   0:00 [kthrotld]
+root        54  0.0  0.0      0     0 ?        S<   13:31   0:00 [acpi_thermal_pm]
+root        55  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        56  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        57  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        58  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        59  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        60  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        61  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        62  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   13:31   0:00 [ipv6_addrconf]
+root        79  0.0  0.0      0     0 ?        S<   13:31   0:00 [deferwq]
+root        80  0.0  0.0      0     0 ?        S<   13:31   0:00 [charger_manager]
+root       123  0.0  0.0      0     0 ?        S<   13:31   0:00 [kpsmoused]
+root       125  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_0]
+root       126  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_0]
+root       127  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_1]
+root       128  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_1]
+root       129  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_2]
+root       130  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_2]
+root       131  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_3]
+root       132  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_3]
+root       133  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_4]
+root       134  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_4]
+root       144  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root       145  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root       149  0.0  0.0      0     0 ?        S<   13:31   0:00 [kworker/0:1H]
+root       151  0.0  0.0      0     0 ?        S<   13:31   0:01 [kworker/1:1H]
+root       154  0.0  0.0      0     0 ?        S    13:31   0:00 [scsi_eh_5]
+root       155  0.0  0.0      0     0 ?        S<   13:31   0:00 [scsi_tmf_5]
+root       156  0.0  0.0      0     0 ?        S    13:31   0:00 [usb-storage]
+root       179  0.0  0.0      0     0 ?        S    13:31   0:01 [jbd2/sda1-8]
+root       180  0.0  0.0      0     0 ?        S<   13:31   0:00 [ext4-rsv-conver]
+root       194  0.0  0.0      0     0 ?        S<   13:31   0:00 [bioset]
+root       212  0.0  0.0      0     0 ?        S    13:31   0:00 [kauditd]
+root       227  0.0  0.0  40308  3292 ?        Ss   13:31   0:00 /lib/systemd/systemd-journald
+root       256  0.0  0.0  45832  2740 ?        Ss   13:31   0:01 /lib/systemd/systemd-udevd
+root       336  0.0  0.0      0     0 ?        S    13:31   0:00 [irq/28-mei_me]
+root       371  0.0  0.0      0     0 ?        S<   13:31   0:00 [ktpacpid]
+systemd+   458  0.0  0.0 102384  1316 ?        Ssl  13:31   0:00 /lib/systemd/systemd-timesyncd
+root       471  0.0  0.0      0     0 ?        S<   13:31   0:00 [kvm-irqfd-clean]
+root       657  0.0  0.0      0     0 ?        S<   13:31   0:00 [cfg80211]
+root       781  0.0  0.0 166432  3588 ?        Ssl  13:31   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       795  0.0  0.1 275888  3920 ?        Ssl  13:31   0:00 /usr/lib/accountsservice/accounts-daemon
+root       801  0.0  0.0 413520  3220 ?        Ssl  13:31   0:00 /usr/sbin/ModemManager
+root       814  0.0  0.0  29008  1772 ?        Ss   13:31   0:00 /usr/sbin/cron -f
+message+   816  0.0  0.1  44528  3656 ?        Ss   13:31   0:05 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       897  0.0  0.0   4396   708 ?        Ss   13:31   0:00 /usr/sbin/acpid
+avahi      899  0.0  0.0  44908  1724 ?        Ss   13:31   0:01 avahi-daemon: running [hunglxc-Lenovo-B490.local]
+root       900  0.0  0.1 450016  6656 ?        Ssl  13:31   0:02 /usr/sbin/NetworkManager --no-daemon
+syslog     901  0.0  0.0 256392  1556 ?        Ssl  13:31   0:00 /usr/sbin/rsyslogd -n
+root       905  0.0  0.0  28636  1756 ?        Ss   13:31   0:00 /lib/systemd/systemd-logind
+root       948  0.0  0.1 282348  5740 ?        Ssl  13:31   0:00 /usr/lib/policykit-1/polkitd --no-debug
+avahi      950  0.0  0.0  44780   116 ?        S    13:31   0:00 avahi-daemon: chroot helper
+root      1033  0.0  0.0  19472   156 ?        Ss   13:31   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1044  0.0  0.0 350408  3336 ?        SLsl 13:31   0:00 /usr/sbin/lightdm
+root      1092  0.1  0.3 435924 11632 ?        Ssl  13:31   0:12 /usr/bin/dockerd -H fd://
+root      1114  5.3  1.9 494004 72348 tty7     Ssl+ 13:32   8:00 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+mysql     1122  0.0  1.4 1175356 50920 ?       Ssl  13:32   0:05 /usr/sbin/mysqld
+root      1174  0.0  0.1 221500  3988 ?        Ss   13:32   0:00 php-fpm: master process (/etc/php/7.0/fpm/php-fpm.conf)
+www-data  1177  0.0  0.0 221500   488 ?        S    13:32   0:00 php-fpm: pool www
+www-data  1178  0.0  0.0 221500   488 ?        S    13:32   0:00 php-fpm: pool www
+whoopsie  1225  0.0  0.1 447732  5568 ?        Ssl  13:32   0:00 /usr/bin/whoopsie -f
+root      1275  0.0  0.0  43896  1820 ?        Ss   13:32   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+nobody    1306  0.0  0.0  52868  1336 ?        S    13:32   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1391  0.0  0.1 220000  3768 ?        Ssl  13:32   0:07 containerd -l unix:///var/run/docker/libcontainerd/docker-containerd.sock --metrics-interval=0 --start-timeout 2m --state-dir /var/run/docker/libcontainerd/containerd --shim containerd-shim --runtime runc
+root      1712  0.0  0.0 341044  1632 ?        Ss   13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+root      1758  0.0  0.0   4504   900 ?        S    13:32   0:00 /bin/sh /opt/lampp/bin/mysqld_safe --datadir=/opt/lampp/var/mysql --pid-file=/opt/lampp/var/mysql/hunglxc-Lenovo-B490.pid
+daemon    1915  0.0  0.0 336504   912 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+daemon    1916  0.0  0.0  51684   524 ?        Ss   13:32   0:00 proftpd: (accepting connections)
+root      1926  0.0  0.0  15936   716 tty1     Ss+  13:32   0:00 /sbin/agetty --noclear tty1 linux
+mysql     1934  0.0  0.5 1228384 18596 ?       Sl   13:32   0:02 /opt/lampp/sbin/mysqld --basedir=/opt/lampp --datadir=/opt/lampp/var/mysql --plugin-dir=/opt/lampp/lib/mysql/plugin/ --user=mysql --log-error=/opt/lampp/var/mysql/hunglxc-Lenovo-B490.err --pid-file=/opt/lampp/var/mysql/hunglxc-Lenovo-B490.pid --socket=/opt/lampp/var/mysql/mysql.sock --port=3306
+daemon    1985  0.0  0.0 341044  1284 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+daemon    1986  0.0  0.0 341044  1572 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+daemon    1987  0.0  0.0 341044  2668 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+daemon    1988  0.0  0.0 341044  1036 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+daemon    1989  0.0  0.0 341044    44 ?        S    13:32   0:00 /opt/lampp/bin/httpd -k start -E /opt/lampp/logs/error_log -DSSL -DPHP
+rtkit     2648  0.0  0.0 183544  1460 ?        SNsl 13:32   0:00 /usr/lib/rtkit/rtkit-daemon
+root      2650  0.0  0.1 347404  4820 ?        Ssl  13:32   0:00 /usr/lib/upower/upowerd
+colord    2726  0.0  0.1 301188  4620 ?        Ssl  13:33   0:00 /usr/lib/colord/colord
+root      2912  0.0  0.0 108968  2636 ?        Ss   13:33   0:00 sendmail: MTA: accepting connections
+root      2923  0.0  0.0 230304  3152 ?        Sl   13:34   0:00 lightdm --session-child 12 21
+root      3040  0.0  0.0  93232  1224 ?        Ss   13:36   0:00 /usr/sbin/cupsd -l
+root      3042  0.0  0.1 274812  4080 ?        Ssl  13:36   0:00 /usr/sbin/cups-browsed
+root      3043  0.0  0.0      0     0 ?        S    16:00   0:00 [kworker/1:2]
+lp        3046  0.0  0.0  81244  1244 ?        S    13:36   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp        3047  0.0  0.0  81244  1840 ?        S    13:36   0:00 /usr/lib/cups/notifier/dbus dbus://
+root      3298  0.0  0.0      0     0 ?        S<   14:37   0:00 [iprt-VBoxWQueue]
+root      3302  0.0  0.0      0     0 ?        S    14:37   0:00 [iprt-VBoxTscThr]
+hunglxc   3482  7.1  2.0 1146948 75904 ?       Sl   16:00   0:01 evince /home/hunglxc/Documents/ICT/Computer network/Network Course/Lecture 3 - Internet Layer.pdf
+hunglxc   3498  0.0  0.1 178496  4024 ?        Sl   16:00   0:00 /usr/lib/evince/evinced
+hunglxc   4327  0.0  0.0   4504   668 pts/8    S+   16:01   0:00 sh -c ps axu
+hunglxc   4328  0.0  0.0  37372  3104 pts/8    R+   16:01   0:00 ps axu
+hunglxc   9276  0.0  0.0  45276  2560 ?        Ss   13:47   0:00 /lib/systemd/systemd --user
+hunglxc   9277  0.0  0.0 145436   304 ?        S    13:47   0:00 (sd-pam)
+hunglxc   9285  0.0  0.0 205260  3416 ?        Sl   13:47   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+hunglxc   9287  0.0  0.0  46460  2296 ?        Ss   13:47   0:00 /sbin/upstart --user
+hunglxc   9373  0.0  0.0  32864  1156 ?        S    13:47   0:00 upstart-udev-bridge --daemon --user
+hunglxc   9374  0.0  0.0  44012  3564 ?        Ss   13:47   0:02 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-CO6cgsVjG1
+hunglxc   9386  0.0  0.0  86344  3552 ?        Ss   13:47   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+hunglxc   9410  0.0  0.0  32796   748 ?        S    13:47   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+hunglxc   9412  0.0  0.0  32796   116 ?        S    13:47   0:01 upstart-dbus-bridge --daemon --system --user --bus-name system
+hunglxc   9416  0.0  0.0  41292   624 ?        S    13:47   0:00 upstart-file-bridge --daemon --user
+hunglxc   9425  0.1  0.2 421724  8656 ?        Ssl  13:47   0:15 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+hunglxc   9443  0.0  0.1 348300  3636 ?        Sl   13:47   0:00 /usr/lib/gvfs/gvfsd
+hunglxc   9448  0.0  0.0 406864  2824 ?        Sl   13:47   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+hunglxc   9452  0.0  0.1 264280  3784 ?        Sl   13:47   0:00 /usr/lib/ibus/ibus-dconf
+hunglxc   9458  0.0  0.3 478444 14304 ?        Sl   13:47   0:06 /usr/lib/ibus/ibus-ui-gtk3
+hunglxc   9462  0.0  0.1 427984  7024 ?        Sl   13:47   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+hunglxc   9467  0.0  0.0 338024  3140 ?        Sl   13:47   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+hunglxc   9476  0.0  0.0  43028  2504 ?        S    13:47   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+hunglxc   9478  0.0  0.0 206864  3384 ?        Sl   13:47   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+hunglxc   9491  0.0  0.1 188532  3692 ?        Sl   13:47   0:01 /usr/lib/ibus/ibus-engine-simple
+hunglxc   9500  0.1  0.3 525656 14352 ?        Ssl  13:47   0:14 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+hunglxc   9505  0.0  0.0 166548   176 ?        Ss   13:47   0:00 gpg-agent --homedir /home/hunglxc/.gnupg --use-standard-socket --daemon
+hunglxc   9515  0.0  0.8 733848 30432 ?        Ssl  13:47   0:04 /usr/lib/x86_64-linux-gnu/hud/hud-service
+hunglxc   9517  0.0  0.3 929040 11920 ?        Ssl  13:47   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+hunglxc   9528  0.0  0.1 714228  5432 ?        Ssl  13:47   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+hunglxc   9540  0.0  0.8 651428 31516 ?        Ssl  13:47   0:07 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+hunglxc   9566  0.0  0.0 354488  3456 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+hunglxc   9567  0.0  0.0 407184  3116 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+hunglxc   9568  0.0  0.0 503852  3480 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+hunglxc   9569  0.0  0.1 1233028 4900 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+hunglxc   9570  0.0  0.4 718784 14868 ?        Ssl  13:47   0:01 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+hunglxc   9571  0.0  0.1 663304  5584 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+hunglxc   9572  0.0  0.1 621020  6032 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+hunglxc   9580  0.0  0.0 887408  3260 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+hunglxc   9617  0.0  0.1 403148  4236 ?        Ssl  13:47   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+hunglxc   9618  0.0  0.0  22368    36 ?        S    13:47   0:00 syndaemon -i 1.0 -t -K -R
+hunglxc   9626  0.1  0.2 566688  7828 ?        S<l  13:47   0:12 /usr/bin/pulseaudio --start --log-target=syslog
+hunglxc   9635  0.0  0.1 1242964 5744 ?        Sl   13:47   0:00 /usr/lib/evolution/evolution-source-registry
+hunglxc   9655  0.0  0.0 178888  3488 ?        Sl   13:48   0:00 /usr/lib/dconf/dconf-service
+hunglxc   9693  4.5  1.4 1218688 51496 ?       Rsl  13:48   6:02 compiz
+hunglxc   9697  0.0  0.2 429408  7556 ?        Sl   13:48   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+hunglxc   9698  0.0  0.2 663884 10216 ?        Sl   13:48   0:00 nm-applet
+hunglxc   9707  0.0  0.2 576856  7796 ?        Sl   13:48   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+hunglxc   9711  0.0  1.0 1431076 39436 ?       SLl  13:48   0:04 /usr/bin/gnome-software --gapplication-service
+hunglxc   9715  0.1  1.0 1360400 39632 ?       Sl   13:48   0:13 nautilus -n
+hunglxc   9721  0.0  0.1 285484  3832 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      9726  0.0  0.1 432452  5104 ?        Ssl  13:48   0:01 /usr/lib/udisks2/udisksd --no-debug
+hunglxc   9734  0.0  0.1 863040  4512 ?        Sl   13:48   0:00 /usr/lib/evolution/evolution-calendar-factory
+hunglxc   9742  0.0  0.0 257568  2804 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+hunglxc   9747  0.0  0.0 271860  3240 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+hunglxc   9752  0.0  0.1 403648  4048 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+hunglxc   9758  0.0  0.0 259532  3436 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+root      9767  0.0  0.7 505504 26168 ?        Ssl  13:48   0:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+hunglxc   9781  0.0  0.0 350612  3500 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+hunglxc   9802  0.0  0.1 187696  4576 ?        Sl   13:48   0:00 /usr/lib/gvfs/gvfsd-metadata
+hunglxc   9817  0.0  0.0 881596  3560 ?        Sl   13:48   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx9734x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/9734/2
+hunglxc   9827  0.0  0.1 690636  3988 ?        Sl   13:48   0:00 /usr/lib/evolution/evolution-addressbook-factory
+hunglxc   9830  0.0  0.1 1193524 4244 ?        Sl   13:48   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx9734x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/9734/3
+hunglxc   9845  0.0  0.1 766140  3880 ?        Sl   13:48   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx9827x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/9827/2
+hunglxc   9883  0.0  0.2 494856  8716 ?        Sl   13:48   0:00 zeitgeist-datahub
+hunglxc   9890  0.0  0.0   4504    84 ?        S    13:48   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+hunglxc   9897  0.0  0.1 410240  5468 ?        Sl   13:48   0:00 /usr/bin/zeitgeist-daemon
+hunglxc   9904  0.0  0.1 317388  5852 ?        Sl   13:48   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+hunglxc   9925  5.2  8.0 2770628 292960 ?      Sl   13:48   7:00 /usr/lib/firefox/firefox
+hunglxc  10141  0.0  0.2 645552 10308 ?        Sl   13:49   0:00 update-notifier
+hunglxc  10190  9.8 10.8 2545816 393244 ?      Sl   13:49  12:59 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -boolPrefs 299:0| -stringPrefs 285:36;69670a09-34ea-4db3-a5f4-f581ef2f8429| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 9925 true tab
+hunglxc  10233  0.0  0.0 435516  3316 ?        Sl   13:50   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+hunglxc  10313  0.0  0.1 705400  4024 ?        Sl   13:52   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+hunglxc  10347  0.0  0.0 435484  3256 ?        Sl   13:52   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/5
+hunglxc  10455  0.2  1.0 674012 38468 ?        Sl   13:56   0:20 gedit /home/hunglxc/Documents/ThucTapBkav/CTF/whitehat/phan bien/20180530 KyLS/attachments(6)/Description.txt
+hunglxc  10480  0.0  0.2 649216 10320 ?        Sl   13:56   0:00 file-roller /home/hunglxc/Documents/ThucTapBkav/CTF/whitehat/phan bien/20180530 KyLS/attachments(6)/challenge.zip
+hunglxc  10492  0.0  0.0 207860  2068 ?        Sl   13:56   0:00 /usr/lib/libreoffice/program/oosplash --writer file:///home/hunglxc/.cache/.fr-T6udy4/Wargame_thang%206_nam%202018%20tacgia%20kyls.docx
+hunglxc  10510  0.1  1.8 1277028 65384 ?       Sl   13:56   0:09 /usr/lib/libreoffice/program/soffice.bin --writer file:///home/hunglxc/.cache/.fr-T6udy4/Wargame_thang%206_nam%202018%20tacgia%20kyls.docx --splash-pipe=5
+root     17344  0.0  0.0      0     0 ?        S<   13:59   0:00 [xfsalloc]
+root     17345  0.0  0.0      0     0 ?        S<   13:59   0:00 [xfs_mru_cache]
+root     17354  0.0  0.0      0     0 ?        S    13:59   0:00 [jfsIO]
+root     17355  0.0  0.0      0     0 ?        S    13:59   0:00 [jfsCommit]
+root     17356  0.0  0.0      0     0 ?        S    13:59   0:00 [jfsCommit]
+root     17357  0.0  0.0      0     0 ?        S    13:59   0:00 [jfsSync]
+root     17394  0.0  0.0      0     0 ?        S<   13:59   0:00 [bioset]
+root     20911  0.0  0.1 225816  5640 ?        Ssl  14:39   0:00 /usr/lib/snapd/snapd
+root     21027  0.0  0.0 1027320 2192 ?        Sl   14:39   0:03 /opt/teamviewer/tv_bin/teamviewerd -d
+hunglxc  25000  1.7  5.3 1826212 194596 ?      Sl   14:10   1:54 /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -boolPrefs 299:0| -stringPrefs 285:36;69670a09-34ea-4db3-a5f4-f581ef2f8429| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 9925 true tab
+hunglxc  25115  0.0  0.1 281620  4788 ?        Sl   14:18   0:01 /usr/lib/ibus-unikey/ibus-engine-unikey --ibus
+hunglxc  25847  0.1  0.6 667808 23580 ?        Sl   14:32   0:07 /usr/lib/gnome-terminal/gnome-terminal-server
+hunglxc  25854  0.0  0.0  22764  2788 pts/19   Ss+  14:32   0:00 bash
+hunglxc  26602  0.0  0.5 490204 21116 ?        Sl   14:33   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+hunglxc  26997  1.9  7.0 2057692 256844 ?      Sl   14:40   1:32 /usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -boolPrefs 299:0| -stringPrefs 285:36;69670a09-34ea-4db3-a5f4-f581ef2f8429| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 9925 true tab
+hunglxc  27054  0.3  0.9 1522424 35736 ?       Sl   14:42   0:16 /usr/lib/virtualbox/VirtualBox
+hunglxc  27077  0.2  0.1 166764  5684 ?        S    14:42   0:09 /usr/lib/virtualbox/VBoxXPCOMIPCD
+hunglxc  27082  0.3  0.2 830796  9656 ?        Sl   14:42   0:18 /usr/lib/virtualbox/VBoxSVC --auto-shutdown
+hunglxc  27103  0.0  0.0  61340  3328 ?        S    14:42   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+hunglxc  27122 17.3 32.2 2955468 1169096 ?     Sl   14:43  13:33 /usr/lib/virtualbox/VirtualBox --comment acunetix --startvm 42acd96f-ab09-4576-af9e-78f3d755bbd7 --no-startvm-errormsgbox
+hunglxc  27202  0.0  0.1  22860  5108 pts/8    Ss   14:45   0:00 bash
+root     27425  0.0  0.0      0     0 ?        S<   15:02   0:00 [dio/sda1]
+root     27647  0.0  0.0      0     0 ?        S    15:23   0:01 [kworker/1:0]
+root     27736  0.0  0.0      0     0 ?        S    15:29   0:01 [kworker/0:1]
+root     27775  0.0  0.0      0     0 ?        S    15:30   0:00 [kworker/u16:1]
+root     27845  0.0  0.0      0     0 ?        S    15:35   0:00 [kworker/u16:2]
+root     28181  0.0  0.0      0     0 ?        S    15:54   0:00 [kworker/u16:0]
+root     28186  0.0  0.0      0     0 ?        S    15:54   0:00 [kworker/1:1]
+hunglxc  28635  6.2  6.4 1853664 234740 ?      Sl   14:35   5:21 /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -boolPrefs 299:0| -stringPrefs 285:36;69670a09-34ea-4db3-a5f4-f581ef2f8429| -schedulerPrefs 0001,2 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 9925 true tab
+root     29156  0.0  0.0      0     0 ?        S    15:55   0:00 [kworker/0:2]
+hunglxc  29196  0.3  0.0   6080  2720 pts/8    R+   15:57   0:00 ./main
